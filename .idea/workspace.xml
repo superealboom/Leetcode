@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c03ed9d9-26a0-4f10-85a6-e2ff52242668" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c03ed9d9-26a0-4f10-85a6-e2ff52242668" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,9 +92,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="685" />
-    <option name="y" value="100" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="805" />
+    <option name="y" value="502" />
     <option name="width" value="1750" />
     <option name="height" value="1030" />
   </component>
@@ -224,7 +222,7 @@
       <workItem from="1582418801794" duration="10664000" />
       <workItem from="1582445413403" duration="689000" />
       <workItem from="1582508624836" duration="1841000" />
-      <workItem from="1582514616841" duration="6342000" />
+      <workItem from="1582514616841" duration="6668000" />
     </task>
     <servers />
   </component>
@@ -261,10 +259,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23031000" />
+    <option name="totallyTimeSpent" value="23357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
